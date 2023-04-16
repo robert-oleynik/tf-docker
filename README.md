@@ -2,7 +2,7 @@
 
 [![crates](https://img.shields.io/crates/v/tf-docker)](https://crates.io/crates/tf-docker)
 
-This repository contains the pre generated rust code for the Terraform Kubernetes
+This repository contains the pre generated rust code for the Terraform Docker
 provider.
 
 ## Requirements
@@ -13,7 +13,7 @@ provider.
 
 ## Usage
 
-Use the following commands we can add `tf-bindgen` and `tf-kubernetes` to your crate:
+Use the following commands we can add `tf-bindgen` and `tf-docker` to your crate:
 
 ```sh
 cargo add tf-bindgen
